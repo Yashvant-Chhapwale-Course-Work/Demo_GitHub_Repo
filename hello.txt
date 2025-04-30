@@ -1,2 +1,2 @@
 Hello User!
-This is a Dem Commit!
+This is a Demo Commit!
