@@ -1,3 +1,3 @@
 Hello User!
-This is a Test Commit!
+This is a Demo Commit!
 This Commit verifies the Creation, Merge and Termination of Branches!
