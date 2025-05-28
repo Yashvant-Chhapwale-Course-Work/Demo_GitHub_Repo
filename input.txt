@@ -1,2 +1,2 @@
 protocol=https
-host=github.com
+host=github.com 
